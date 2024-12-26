@@ -1,0 +1,423 @@
+
+{
+    "page": 1,
+    "results": [
+        {
+            "backdrop_path": "/tElnmtQ6yz1PjN1kePNl8yMSb59.jpg",
+            "id": 1241982,
+            "title": "Moana 2",
+            "original_title": "Moana 2",
+            "overview": "After receiving an unexpected call from her wayfinding ancestors, Moana journeys alongside Maui and a new crew to the far seas of Oceania and into dangerous, long-lost waters for an adventure unlike anything she's ever faced.",
+            "poster_path": "/4YZpsylmjHbqeWzjKpUEF8gcLNW.jpg",
+            "media_type": "movie",
+            "adult": false,
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                12,
+                10751,
+                35
+            ],
+            "popularity": 5086.574,
+            "release_date": "2024-11-27",
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 125
+        },
+        {
+            "backdrop_path": "/jUYn9ytvxrquviR36OD6n2EqBgW.jpg",
+            "id": 1203236,
+            "title": "Nutcrackers",
+            "original_title": "Nutcrackers",
+            "overview": "Just as Mike is on the heels of closing the biggest deal of his career, he's pulled away from his bachelor life in the big city to a farm in rural Ohio in order to help his recently orphaned nephews find a new home.",
+            "poster_path": "/yqKKhbaofSHfqHGNYHz9yqSPvYR.jpg",
+            "media_type": "movie",
+            "adult": false,
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "popularity": 15.057,
+            "release_date": "2024-09-05",
+            "video": false,
+            "vote_average": 5.7,
+            "vote_count": 8
+        },
+        {
+            "backdrop_path": "/pjHpobTyiHPO5OTbfi9DHyynKHp.jpg",
+            "id": 1365044,
+            "title": "The Snow Sister",
+            "original_title": "Snøsøsteren",
+            "overview": "Christmas Eve is approaching. It is also the day Julian will turn eleven years old. Usually it is the best day of the year, filled with the fantastic aroma of gingersnaps and tangerines, the sound of a crackling fire, the decorated Christmas tree and the flickering candlelight. But this year nothing is as usual. Julian and his family mourn the death of his big sister, and Julian feels that Christmas has just been cancelled. Then one day Julian meets the happy and Christmas-loving Hedwig and he begins to believe that perhaps there will be Christmas after all. But there’s something strange about Hedwig’s house, and who is the old man who is lurking around the house all the time?",
+            "poster_path": "/aaIlHoinJscLP1FfVy30WbPUEWk.jpg",
+            "media_type": "movie",
+            "adult": false,
+            "original_language": "no",
+            "genre_ids": [
+                14,
+                12,
+                10751,
+                18
+            ],
+            "popularity": 42.494,
+            "release_date": "2024-11-28",
+            "video": false,
+            "vote_average": 8.0,
+            "vote_count": 2
+        },
+        {
+            "backdrop_path": "/uKb22E0nlzr914bA9KyA5CVCOlV.jpg",
+            "id": 402431,
+            "title": "Wicked",
+            "original_title": "Wicked",
+            "overview": "When ostracized and misunderstood green-skinned Elphaba is forced to share a room with the popular aristocrat Glinda, the two's unlikely friendship is tested as they begin to fulfill their respective destinies as Glinda the Good and the Wicked Witch of the West.",
+            "poster_path": "/c5Tqxeo1UpBvnAc3csUm7j3hlQl.jpg",
+            "media_type": "movie",
+            "adult": false,
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                14,
+                10749
+            ],
+            "popularity": 1333.478,
+            "release_date": "2024-11-20",
+            "video": false,
+            "vote_average": 7.6,
+            "vote_count": 280
+        },
+        {
+            "backdrop_path": "/tkRDTu9hyWgaBSSzfkYDCZYd1kV.jpg",
+            "id": 974576,
+            "title": "Conclave",
+            "original_title": "Conclave",
+            "overview": "After the unexpected death of the Pope, Cardinal Lawrence is tasked with managing the covert and ancient ritual of electing a new one. Sequestered in the Vatican with the Catholic Church’s most powerful leaders until the process is complete, Lawrence finds himself at the center of a conspiracy that could lead to its downfall.",
+            "poster_path": "/m5x8D0bZ3eKqIVWZ5y7TnZ2oTVg.jpg",
+            "media_type": "movie",
+            "adult": false,
+            "original_language": "en",
+            "genre_ids": [
+                9648,
+                53,
+                18
+            ],
+            "popularity": 283.098,
+            "release_date": "2024-10-25",
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 100
+        },
+        {
+            "backdrop_path": "/jIJhDofDxf7TCHZSg99YbOLqIsZ.jpg",
+            "id": 989730,
+            "title": "Mononoke the Movie: The Phantom in the Rain",
+            "original_title": "劇場版モノノ怪 唐傘",
+            "overview": "In the chambers of the Edo harem, two newcomers uncover political intrigue, rivalry and a vengeful spirit only one traveling medicine seller can vanquish.",
+            "poster_path": "/xE06xrZkIipJMPSgWoeelohxi9h.jpg",
+            "media_type": "movie",
+            "adult": false,
+            "original_language": "ja",
+            "genre_ids": [
+                16,
+                14,
+                9648,
+                27
+            ],
+            "popularity": 13.287,
+            "release_date": "2024-07-26",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 10
+        },
+        {
+            "backdrop_path": "/sv3clpwOSSZO1c8i9uX4zig6Lzz.jpg",
+            "id": 1252470,
+            "title": "Sikandar Ka Muqaddar",
+            "original_title": "सिकंदर का मुकद्दर",
+            "overview": "After an unsolved diamond heist, a hard-nosed cop’s pursuit of his key suspect turns into obsession, until they finally face each other — and the truth.",
+            "poster_path": "/5YDQhY38XDgqRy86VNRRpNtkZFi.jpg",
+            "media_type": "movie",
+            "adult": false,
+            "original_language": "hi",
+            "genre_ids": [
+                53,
+                80,
+                9648,
+                28
+            ],
+            "popularity": 37.859,
+            "release_date": "2024-11-29",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 2
+        },
+        {
+            "backdrop_path": "/he2R7B5Hg9WItwNmgGz2aOW5CUG.jpg",
+            "id": 999890,
+            "title": "Sweethearts",
+            "original_title": "Sweethearts",
+            "overview": "Two college freshmen who decided to stick with their high school sweethearts have to pull a 'Turkey Dump' and break up with them over 'Drunksgiving' the one chaotic night before Thanksgiving in their hometown that puts their codependent friendship to the test.",
+            "poster_path": "/890UDXYal6i8A9NbMV5TAxZpOzH.jpg",
+            "media_type": "movie",
+            "adult": false,
+            "original_language": "en",
+            "genre_ids": [
+                10749,
+                35
+            ],
+            "popularity": 69.854,
+            "release_date": "2024-11-27",
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 7
+        },
+        {
+            "backdrop_path": "/a5OqX7uXb8MI0WB3HbCyA0Wn3gI.jpg",
+            "id": 1234811,
+            "title": "Our Little Secret",
+            "original_title": "Our Little Secret",
+            "overview": "After discovering their significant others are siblings, two resentful exes must spend Christmas under one roof — while hiding their romantic history.",
+            "poster_path": "/7isqmWUryG2xksrw0E75m3vYTFd.jpg",
+            "media_type": "movie",
+            "adult": false,
+            "original_language": "en",
+            "genre_ids": [
+                10749,
+                35,
+                18
+            ],
+            "popularity": 208.55,
+            "release_date": "2024-11-27",
+            "video": false,
+            "vote_average": 6.265,
+            "vote_count": 66
+        },
+        {
+            "backdrop_path": "/au3o84ub27qTZiMiEc9UYzN74V3.jpg",
+            "id": 1035048,
+            "title": "Elevation",
+            "original_title": "Elevation",
+            "overview": "A single father and two women venture from the safety of their homes to face monstrous creatures to save the life of a young boy.",
+            "poster_path": "/uQhYBxOVFU6s9agD49FnGHwJqG5.jpg",
+            "media_type": "movie",
+            "adult": false,
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                878,
+                53
+            ],
+            "popularity": 409.938,
+            "release_date": "2024-11-07",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 54
+        },
+        {
+            "backdrop_path": "/2vcdYHfEzzsTOM5p3mQ8hvxb97U.jpg",
+            "id": 1371146,
+            "title": "Beatles '64",
+            "original_title": "Beatles '64",
+            "overview": "Featuring never-before-seen footage of the band and the legions of young fans who helped fuel their ascendance, follow McCartney, John Lennon, George Harrison and Starr as they land in New York City in February 1964 and solidify their status as the biggest band in the world.",
+            "poster_path": "/1vSmZvoEv4VQgw9WkjrbyGnmoKh.jpg",
+            "media_type": "movie",
+            "adult": false,
+            "original_language": "en",
+            "genre_ids": [
+                99,
+                10402
+            ],
+            "popularity": 47.762,
+            "release_date": "2024-11-28",
+            "video": false,
+            "vote_average": 9.7,
+            "vote_count": 3
+        },
+        {
+            "backdrop_path": "/9SSEUrSqhljBMzRe4aBTh17rUaC.jpg",
+            "id": 945961,
+            "title": "Alien: Romulus",
+            "original_title": "Alien: Romulus",
+            "overview": "While scavenging the deep ends of a derelict space station, a group of young space colonizers come face to face with the most terrifying life form in the universe.",
+            "poster_path": "/b33nnKl1GSFbao4l3fZDDqsMx0F.jpg",
+            "media_type": "movie",
+            "adult": false,
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                878
+            ],
+            "popularity": 843.635,
+            "release_date": "2024-08-13",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 2469
+        },
+        {
+            "backdrop_path": "/ownr1JeuYB4Xnlcl2la88c3CE3z.jpg",
+            "id": 756397,
+            "title": "Hitpig!",
+            "original_title": "Hitpig!",
+            "overview": "A porcine bounty hunter accepts his next hit: Pickles, a naive, ebullient elephant. Though he initially sets out to capture the perky pachyderm, the unlikely pair find themselves crisscrossing the globe on an adventure that brings out the best in both of them.",
+            "poster_path": "/bYa20LYAZ3Q7lKXtLYybo0yWWTN.jpg",
+            "media_type": "movie",
+            "adult": false,
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                35,
+                12
+            ],
+            "popularity": 11.803,
+            "release_date": "2024-11-01",
+            "video": false,
+            "vote_average": 3.0,
+            "vote_count": 3
+        },
+        {
+            "backdrop_path": "/sQbFupSWM9wUdPj96NZNUOFSP5.jpg",
+            "id": 1000075,
+            "title": "The Price of Money: A Largo Winch Adventure",
+            "original_title": "Largo Winch: Le prix de l'argent",
+            "overview": "Largo Winch, devastated by the kidnapping of his son, realizes that if he finds those responsible for his bankruptcy, maybe he'll see his son again.",
+            "poster_path": "/38ndcNVogh4k1iFH5DSXSX8kyOZ.jpg",
+            "media_type": "movie",
+            "adult": false,
+            "original_language": "fr",
+            "genre_ids": [
+                28,
+                12,
+                53
+            ],
+            "popularity": 26.501,
+            "release_date": "2024-07-31",
+            "video": false,
+            "vote_average": 5.762,
+            "vote_count": 21
+        },
+        {
+            "backdrop_path": "/euYIwmwkmz95mnXvufEmbL6ovhZ.jpg",
+            "id": 558449,
+            "title": "Gladiator II",
+            "original_title": "Gladiator II",
+            "overview": "Years after witnessing the death of the revered hero Maximus at the hands of his uncle, Lucius is forced to enter the Colosseum after his home is conquered by the tyrannical Emperors who now lead Rome with an iron fist. With rage in his heart and the future of the Empire at stake, Lucius must look to his past to find strength and honor to return the glory of Rome to its people.",
+            "poster_path": "/2cxhvwyEwRlysAmRH4iodkvo0z5.jpg",
+            "media_type": "movie",
+            "adult": false,
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                12
+            ],
+            "popularity": 1339.15,
+            "release_date": "2024-11-13",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 829
+        },
+        {
+            "backdrop_path": "/iR79ciqhtaZ9BE7YFA1HpCHQgX4.jpg",
+            "id": 1100782,
+            "title": "Smile 2",
+            "original_title": "Smile 2",
+            "overview": "About to embark on a new world tour, global pop sensation Skye Riley begins experiencing increasingly terrifying and inexplicable events. Overwhelmed by the escalating horrors and the pressures of fame, Skye is forced to face her dark past to regain control of her life before it spirals out of control.",
+            "poster_path": "/ht8Uv9QPv9y7K0RvUyJIaXOZTfd.jpg",
+            "media_type": "movie",
+            "adult": false,
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                9648
+            ],
+            "popularity": 1530.091,
+            "release_date": "2024-10-16",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 747
+        },
+        {
+            "backdrop_path": "/nA0RDmSDqpN5tLun4sCqdPekObD.jpg",
+            "id": 592831,
+            "title": "Megalopolis",
+            "original_title": "Megalopolis",
+            "overview": "Genius artist Cesar Catilina seeks to leap the City of New Rome into a utopian, idealistic future, while his opposition, Mayor Franklyn Cicero, remains committed to a regressive status quo, perpetuating greed, special interests, and partisan warfare. Torn between them is socialite Julia Cicero, the mayor’s daughter, whose love for Cesar has divided her loyalties, forcing her to discover what she truly believes humanity deserves.",
+            "poster_path": "/8Sok3HNA3r1GHnK2lCytHyBz1A.jpg",
+            "media_type": "movie",
+            "adult": false,
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                878
+            ],
+            "popularity": 245.565,
+            "release_date": "2024-09-25",
+            "video": false,
+            "vote_average": 5.5,
+            "vote_count": 468
+        },
+        {
+            "backdrop_path": "/7h6TqPB3ESmjuVbxCxAeB1c9OB1.jpg",
+            "id": 933260,
+            "title": "The Substance",
+            "original_title": "The Substance",
+            "overview": "A fading celebrity decides to use a black market drug, a cell-replicating substance that temporarily creates a younger, better version of herself.",
+            "poster_path": "/lqoMzCcZYEFK729d6qzt349fB4o.jpg",
+            "media_type": "movie",
+            "adult": false,
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                27,
+                878
+            ],
+            "popularity": 900.666,
+            "release_date": "2024-09-07",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 2270
+        },
+        {
+            "backdrop_path": "/v9acaWVVFdZT5yAU7J2QjwfhXyD.jpg",
+            "id": 1184918,
+            "title": "The Wild Robot",
+            "original_title": "The Wild Robot",
+            "overview": "After a shipwreck, an intelligent robot called Roz is stranded on an uninhabited island. To survive the harsh environment, Roz bonds with the island's animals and cares for an orphaned baby goose.",
+            "poster_path": "/wTnV3PCVW5O92JMrFvvrRcV39RU.jpg",
+            "media_type": "movie",
+            "adult": false,
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                878,
+                10751
+            ],
+            "popularity": 1483.584,
+            "release_date": "2024-09-12",
+            "video": false,
+            "vote_average": 8.4,
+            "vote_count": 3204
+        },
+        {
+            "backdrop_path": "/rXYejcyn762o3cjp9OYfyVR3QpY.jpg",
+            "id": 940139,
+            "title": "Here",
+            "original_title": "Here",
+            "overview": "An odyssey through time and memory, centered around a place in New England where—from wilderness, and then, later, from a home—love, loss, struggle, hope and legacy play out between couples and families over generations.",
+            "poster_path": "/k4rrMs9L5fiW1447LTQsgsDrvdE.jpg",
+            "media_type": "movie",
+            "adult": false,
+            "original_language": "en",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 116.57,
+            "release_date": "2024-10-30",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 57
+        }
+    ],
+    "total_pages": 500,
+    "total_results": 10000
+}
